@@ -1,23 +1,24 @@
+ 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:102653,100:2563EB&text=ABDUL%20WASAY%20ALI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=BUILDING%20PRACTICAL%20WEB%20SOLUTIONS&descAlignY=59&descSize=15&animation=fadeIn" alt="Abdul Wasay Ali — Building Practical Web Solutions" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:102653,100:2563EB&text=ABDUL%20WASAY%20ALI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20BACKEND%20DEVELOPMENT&descAlignY=59&descSize=15&animation=fadeIn" />
 
 <a href="https://github.com/AbdulWasay-Software-Engineer">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=Web+Applications+%26+Business+Systems;Learning+by+Building+Real+Projects;Turning+Ideas+Into+Working+Products" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=PHP+%26+MySQL+Developer;Building+Backend+APIs+with+Node.js;Learning+by+Building+Real+Projects;Turning+Ideas+Into+Working+Products" />
 </a>
 
 <br/>
 
 <a href="https://wingsofwisdom-e-project.netlify.app/">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-WINGS%20OF%20WISDOM-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Wings of Wisdom"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-WINGS%20OF%20WISDOM-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/AbdulWasay-Software-Engineer">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=60A5FA" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GITHUB-VIEW%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=60A5FA"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AbdulWasay-Software-Engineer&style=flat-square&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=AbdulWasay-Software-Engineer&style=flat-square&color=2563EB&label=PROFILE+VISITORS"/>
 
 </div>
 
@@ -29,175 +30,182 @@
 
 **Build useful digital experiences. Solve real problems. Keep learning.**
 
-I work on web development projects and practical applications, with a focus on usability, functionality, and clean interfaces.
+I'm a web development student passionate about building practical web applications, backend systems, REST APIs, and database-driven solutions.
 
 </div>
 
-<br/>
+## / 01 — ABOUT ME
+
+- Based in Karachi, Pakistan 🇵🇰
+- Studying Matric at SM Public School
+- ADSE Part 2 — Semester 3
+- Selected for a 1-Month Practical Backend Development Internship at InternDom
+- Interested in PHP, MySQL, Node.js and backend development
+- Enjoy building real-world projects and learning new technologies
+
+## / 02 — EXPERIENCE & LEARNING
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### `01` — WHAT I BUILD
+### 💼 InternDom — Backend Development Internship
 
-- Business websites and web applications
-- Database-driven systems
-- E-commerce interfaces
-- Learning and management systems
+**1-Month Practical Internship**
 
-</td>
-<td width="50%" valign="top">
-
-### `02` — WHERE I'M HEADED
-
-- Becoming a stronger full-stack developer
-- Building practical software products
-- Improving UI/UX and responsive design
-- Collaborating on real-world projects
+- Selected for practical backend development training.
+- Working with backend development concepts.
+- Building APIs and learning authentication.
+- Improving practical development and debugging skills.
 
 </td>
 </tr>
 </table>
 
+### Currently Learning
+
+- REST API Development
+- Node.js and Express.js
+- MongoDB
+- JWT Authentication
+- ASP.NET Core MVC
+- Modern Web Development Practices
+
 ---
 
-## / 01 — TECH STACK
+## / 03 — TECH STACK
 
 <div align="center">
 
-**LANGUAGES**
+**FRONTEND DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" alt="HTML, CSS, JavaScript and PHP"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery&theme=dark"/>
 
-**FRAMEWORKS & WEB**
+**BACKEND DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=bootstrap,jquery&theme=dark" alt="Bootstrap and jQuery"/>
+<img src="https://skillicons.dev/icons?i=php,nodejs,express&theme=dark"/>
 
-**DATA & DEVELOPER TOOLS**
+**DATABASES**
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+
+**TOOLS & TECHNOLOGIES**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cs,dotnet&theme=dark"/>
 
 </div>
 
 <details>
-<summary><b>More technologies and tools</b></summary>
+<summary><b>Technology Details</b></summary>
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-- **Backend:** PHP
-- **Databases:** MySQL
-- **Development tools:** XAMPP, Visual Studio Code, Git, GitHub
-- **Currently learning:** ASP.NET Core MVC and modern web development practices
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery
+- **Backend:** Core PHP, Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **API Development:** REST APIs, JWT Authentication
+- **Frameworks:** ASP.NET Core MVC
+- **Tools:** Git, GitHub, VS Code, Postman, XAMPP
 
 </details>
 
 ---
 
-## / 02 — SELECTED PROJECTS
+## / 04 — FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT-01-2563EB?style=flat-square" alt="Project 01"/>
-
 ### 📦 Courier Management System
 
-A PHP and MySQL project concept for managing courier records and shipment tracking.
+A PHP and MySQL-based system for managing courier records and shipment tracking.
 
-- Courier entry management
-- Shipment tracking workflow
-- User login
-- Courier information management
+- Courier management
+- Shipment tracking
+- User authentication
+- Service and delivery management
 
-**STACK**  
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+`PHP` `MySQL` `JavaScript` `CSS`
 
 </td>
 <td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/PROJECT-02-2563EB?style=flat-square" alt="Project 02"/>
 
 ### 📚 Learning Management System
 
-A learning platform project focused on course organization and learning materials.
+A learning platform designed to organize courses and educational materials.
 
 - Login and signup
-- Add and view courses
-- Course enrollment
-- Videos, notes, and simple quizzes
+- Course management
+- Student enrollment
+- Videos, notes and quizzes
 
-**STACK**  
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+`PHP` `MySQL` `HTML` `CSS`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT-03-2563EB?style=flat-square" alt="Project 03"/>
-
 ### 🏆 Wings of Wisdom
 
-An educational website about Nobel Prize history, categories, and winners.
+An educational website focused on Nobel Prize history, categories and winners.
 
-- Nobel Prize history and information
-- Winners search and filtering
-- Category and year filters
+- Nobel Prize information
+- Winners directory
+- Search and filtering
+- Responsive interface
 
-**STACK**  
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
-<br/>
-
 <a href="https://wingsofwisdom-e-project.netlify.app/">
-  <img src="https://img.shields.io/badge/VIEW%20LIVE%20WEBSITE-111827?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="View live website"/>
+<img src="https://img.shields.io/badge/VIEW%20LIVE%20WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT-04-2563EB?style=flat-square" alt="Project 04"/>
+### 🔐 TaskFlow API
 
-### 🛒 Online Store
+A backend API project focused on task management and authentication.
 
-An e-commerce project for displaying products and organizing them by category.
+- CRUD operations for tasks
+- MongoDB database integration
+- User signup and login
+- Password hashing with bcrypt
+- JWT-based authentication
 
-- Product listings
-- Category-based browsing
-- Electronics, mobiles, and watches
-- Database-driven product information
-
-**STACK**  
-`PHP` `MySQL` `Bootstrap`
+`Node.js` `Express.js` `MongoDB` `JWT`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT-05-2563EB?style=flat-square" alt="Project 05"/>
+### 🛒 Online Store
 
-### 🛍️ MarketLink
+An e-commerce project for displaying and organizing products.
 
-An e-commerce-oriented project focused on a modern customer shopping experience.
+- Product listings
+- Category-based browsing
+- Electronics, mobiles and watches
+- Database-driven products
 
-- Customer dashboard interface
-- E-commerce-style layout
-- User-friendly navigation
-- Responsive design improvements
+`PHP` `MySQL` `Bootstrap`
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROFILE-ABOUT%20ME-2563EB?style=flat-square" alt="About me"/>
+### ☕ Brew & Bean
 
-### 👨‍💻 About Me
+A restaurant and cafe website project with a premium dark design.
 
-- Based in Karachi, Pakistan
-- Matric student at SM Public School
-- ADSE Part 2 — Semester 3
-- Interested in web development and practical software projects
+- Modern cafe homepage
+- Restaurant website interface
+- Admin panel development
+- PHP and MySQL integration
+
+`PHP` `MySQL` `JavaScript` `CSS`
 
 </td>
 </tr>
@@ -205,41 +213,50 @@ An e-commerce-oriented project focused on a modern customer shopping experience.
 
 ---
 
-## / 03 — GITHUB ANALYTICS
+## / 05 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulWasay-Software-Engineer&show_icons=true&hide_border=true&bg_color=080D19&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulWasay-Software-Engineer&show_icons=true&hide_border=true&bg_color=080D19&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasay-Software-Engineer&layout=compact&hide_border=true&bg_color=080D19&title_color=60A5FA&text_color=C9D1D9&langs_count=6" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasay-Software-Engineer&layout=compact&hide_border=true&bg_color=080D19&title_color=60A5FA&text_color=C9D1D9&langs_count=8"/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=AbdulWasay-Software-Engineer&hide_border=true&background=080D19&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8292AA" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com/?user=AbdulWasay-Software-Engineer&hide_border=true&background=080D19&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8292AA"/>
 
 </div>
 
 ---
 
-## / 04 — LET'S BUILD SOMETHING USEFUL
+## / 06 — WHAT'S NEXT?
 
-I'm interested in learning with other developers and working on projects that solve practical problems, improve online experiences, and make everyday tasks easier.
+- Strengthening backend development skills.
+- Building more PHP and Node.js applications.
+- Improving database design and API security.
+- Exploring full-stack development.
+- Collaborating with developers on practical projects.
 
-**Have a project idea or want to collaborate? Explore my work.**
+---
+
+## / 07 — LET'S CONNECT
+
+I'm always interested in learning, collaborating and building useful software solutions.
 
 <div align="center">
 
 <a href="https://github.com/AbdulWasay-Software-Engineer">
-  <img src="https://img.shields.io/badge/GITHUB-LET'S%20CONNECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-LET'S%20CONNECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://wingsofwisdom-e-project.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-SEE%20MY%20WORK-111827?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="See my work"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=googlechrome&logoColor=60A5FA"/>
 </a>
 
 <br/><br/>
 
-**Ideas → Development → Practical solutions**
+**Ideas → Development → Practical Solutions**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB,55:102653,100:050816" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB,55:102653,100:050816"/>
 
 </div>
