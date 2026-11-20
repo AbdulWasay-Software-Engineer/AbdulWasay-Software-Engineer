@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:102653,100:2563EB&text=ABDUL%20WASAY%20ALI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=BUILDING%20PRACTICAL%20WEB%20SOLUTIONS&descAlignY=59&descSize=15&animation=fadeIn" alt="Abdul Wasay Ali — Building Practical Web Solutions" />
 
-<a href="https://github.com/aw3922179-source">
+<a href="https://github.com/AbdulWasay-Software-Engineer">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=Web+Applications+%26+Business+Systems;Learning+by+Building+Real+Projects;Turning+Ideas+Into+Working+Products" alt="Animated introduction"/>
 </a>
 
@@ -11,13 +11,13 @@
 <a href="https://wingsofwisdom-e-project.netlify.app/">
   <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-WINGS%20OF%20WISDOM-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Wings of Wisdom"/>
 </a>
-<a href="https://github.com/aw3922179-source">
+<a href="https://github.com/AbdulWasay-Software-Engineer">
   <img src="https://img.shields.io/badge/GITHUB-VIEW%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=60A5FA" alt="GitHub profile"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aw3922179-source&style=flat-square&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=AbdulWasay-Software-Engineer&style=flat-square&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
@@ -209,13 +209,13 @@ An e-commerce-oriented project focused on a modern customer shopping experience.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aw3922179-source&show_icons=true&hide_border=true&bg_color=080D19&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulWasay-Software-Engineer&show_icons=true&hide_border=true&bg_color=080D19&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aw3922179-source&layout=compact&hide_border=true&bg_color=080D19&title_color=60A5FA&text_color=C9D1D9&langs_count=6" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasay-Software-Engineer&layout=compact&hide_border=true&bg_color=080D19&title_color=60A5FA&text_color=C9D1D9&langs_count=6" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=aw3922179-source&hide_border=true&background=080D19&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8292AA" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com/?user=AbdulWasay-Software-Engineer&hide_border=true&background=080D19&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8292AA" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -229,7 +229,7 @@ I'm interested in learning with other developers and working on projects that so
 
 <div align="center">
 
-<a href="https://github.com/aw3922179-source">
+<a href="https://github.com/AbdulWasay-Software-Engineer">
   <img src="https://img.shields.io/badge/GITHUB-LET'S%20CONNECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
 </a>
 <a href="https://wingsofwisdom-e-project.netlify.app/">
